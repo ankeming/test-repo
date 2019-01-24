@@ -6,3 +6,4 @@ add new line
 test branch
 test update master & test-branch1
 test no-ff
+test no-ff 2
