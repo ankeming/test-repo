@@ -5,3 +5,4 @@ add four line
 add new line
 test branch
 test update master & test-branch1
+test no-ff
